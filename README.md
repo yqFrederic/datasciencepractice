@@ -10,14 +10,6 @@ These credit scores are numerical representations of the borrower’s creditwort
 
 This segmentation helps financial institutions assess the credit risk associated with each customer and make informed decisions regarding loan approvals, interest rates, and credit limits. By categorizing customers into segments, financial institutions can better manage their lending portfolios and effectively mitigate the risk of potential defaults.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Data](#data)
-- [Methodology](#methodology)
-- [Conclusion](#conclusion)
-
-
 ## Introduction
 
 In this case study, we explore the credit scoring process using the FICO method, a widely used credit scoring model. The FICO method evaluates various features and historical credit data to generate a credit score, providing an assessment of an individual's creditworthiness. Additionally, we utilize KMeans clustering to segment the data into different credit risk groups, allowing for better understanding and decision-making.
