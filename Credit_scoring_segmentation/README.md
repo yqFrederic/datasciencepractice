@@ -15,7 +15,7 @@ This segmentation helps financial institutions assess the credit risk associated
 In this case study, we explore the credit scoring process using the FICO method, a widely used credit scoring model. The FICO method evaluates various features and historical credit data to generate a credit score, providing an assessment of an individual's creditworthiness. Additionally, we utilize KMeans clustering to segment the data into different credit risk groups, allowing for better understanding and decision-making.
 
 ## Data
-The dataset used for this case study is named [credit_scoring.csv](/credit_scoring.csv). It is sourced from https://statso.io/credit-scoring-case-study/ and contains historical credit information of customers.
+The dataset used for this case study is named [credit_scoring.csv](./credit_scoring.csv). It is sourced from https://statso.io/credit-scoring-case-study/ and contains historical credit information of customers.
 
 ## Methodology
 
